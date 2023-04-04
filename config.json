@@ -1,0 +1,5 @@
+{
+    "jsonPath":"image.json",
+    "imagePath":"images/",
+    "blankImage":"black.png"
+}
